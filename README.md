@@ -7,7 +7,7 @@
 [COMP1238 Notes](comp1238.md.)
 
 - **Monday**  
-  - 13:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/334969))   
+  - 13:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/334969)
 
 - **Tuesday**  
-  - 10:00 - [COMP1239 - Web Development]
+  - 10:00 - [COMP1239 - Web Development] (https://learn.georgebrown.ca/d2l/home/342908)
