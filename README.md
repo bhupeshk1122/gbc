@@ -10,4 +10,4 @@
   - 13:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/334969)
 
 - **Tuesday**  
-  - 10:00 - [COMP1239 - Web Development] (https://learn.georgebrown.ca/d2l/home/342908)
+  - 10:00 - [COMP1239 - Web Development](https://learn.georgebrown.ca/d2l/home/342908)
